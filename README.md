@@ -50,3 +50,6 @@ For Red Hat/CentOS:
 
 #!/bin/bash
 - echo "Hello, world!"
+
+## 📦 Linux MCQ series
+-part 1 includes commands like (mkdir,ls,pwd,touch,nano,chmod)
